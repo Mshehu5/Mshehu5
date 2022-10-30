@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mshehu5
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently Working with Golang ,Python and Javascript
 - 💞️ I’m looking to collaborate on Impactful and meaningful projects
 - 📫 How to reach me 
 
